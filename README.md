@@ -109,5 +109,3 @@ f(x) = argmax(wᵢ · x + bᵢ)
 - ✋ Add gesture recognition or QR code scanning
 - 🎙️ Voice input control for two-way interaction
 - 🧤 Build into smart glove or wearable visor
-
-### Social Impact 
